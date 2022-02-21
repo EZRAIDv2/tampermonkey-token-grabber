@@ -1,2 +1,2 @@
 # tampermonkey-token-grabber
-Стаскивает токен, используя расширения "Tampermonkey".
+Стаскивает токен, используя расширение "Tampermonkey".
